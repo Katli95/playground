@@ -1,0 +1,14 @@
+{
+  "name": "playground",
+  "version": "0.0.1",
+  "description": "trying out things",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "3.2.4"
+  }
+}
